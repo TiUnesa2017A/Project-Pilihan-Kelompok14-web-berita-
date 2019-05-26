@@ -70,6 +70,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Nama Kelompok
 
-Siska Oktavia			(17051204042)
-Erika Kanya Anggraeni	(17051204053)
-Atikah Adawiyyah		(17051204079)
+Siska Oktavia			(17051204042) <br>
+Erika Kanya Anggraeni	(17051204053) <br>
+Atikah Adawiyyah		(17051204079) <br>
