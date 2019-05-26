@@ -1,0 +1,114 @@
+﻿
+
+@import url(http://fonts.googleapis.com/css?family=Anton|Maven+Pro:500,700);
+
+.main_us {
+    font-family: 'Maven Pro', sans-serif;
+    line-height: 25px;
+}
+
+.pad-bottom {
+    padding-bottom: 60px;
+}
+
+section {
+    padding-bottom: 120px;
+    padding-top: 100px;
+}
+
+.btn {
+    border-radius: 0px;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+}
+
+.set-bk-clr {
+    background-color: #3c3839;
+}
+
+.clr-set {
+    color: #3c3839;
+}
+
+.f-big {
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.set-bk-clr:hover {
+    background-color: rgba(107, 1, 41, 0.67);
+}
+
+/*services style*/
+#services {
+    background-color: rgba(237, 237, 237, 1);
+}
+
+    #services i {
+        font-size: 80px;
+        padding: 30px;
+        color: #3c3839;
+    }
+
+    #services h4 {
+        padding-bottom: 5px;
+        padding-top: 15px;
+    }
+
+
+/* Tambahan */
+#testimonial {
+    background:#1B2030 url('../../images/team.jpg') top center no-repeat;
+    background-size:cover;
+    background-attachment:fixed;
+    padding: 0;
+    -webkit-background-size: cover;
+    background-size: cover;
+    -moz-background-size: cover;
+}
+
+    #testimonial .overlay {
+        background-color: rgba(0,0,0,0.7);
+        padding-top: 90px;
+        min-height: 300px;
+        color: #fff;
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+
+/*aur temas style*/
+#team {
+    background-color: rgba(0, 0, 0, 1);
+}
+
+.media img {
+    margin-right: 40px;
+    max-height: 150px;
+    margin-bottom: 20px;
+    border: 2px solid #3c3839;
+}
+
+    .media img:hover {
+        opacity: 0.6;
+    }
+
+
+/*stay connected style*/
+#contact {
+    background:#1B2030 url('../../images/connect.jpg') top center no-repeat;
+    background-size:cover;
+    background-attachment:fixed;
+    padding: 0;
+    -webkit-background-size: cover;
+    background-size: cover;
+    -moz-background-size: cover;
+}
+
+    #contact .overlay {
+        background-color: rgba(0,0,0,0.9);
+        padding-top: 90px;
+        min-height: 300px;
+        color: #fff;
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
